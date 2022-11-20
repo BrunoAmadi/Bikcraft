@@ -3,19 +3,17 @@
   width: 100vw;
 }
 .header {
-  max-width: 1200px;
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
   justify-content: space-between;
   align-items: center;
-  margin: 0 auto;
   padding: 20px;
+  margin: 0px;
 }
 .menu-flex {
   display: flex;
   flex-wrap: wrap;
-  gap: 30px;
+  gap: 40px;
   list-style: none;
 }
 .menu-flex a::after{
