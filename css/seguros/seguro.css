@@ -22,6 +22,7 @@
 }
 .seguros-item a {
   grid-column: 1;
+  width: max-content;
 }
 .seguros-item h3 {
   margin-bottom: 40px;
