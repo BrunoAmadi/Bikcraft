@@ -6,7 +6,8 @@ body {
 h1,
 h2,
 h3,
-blockquote {
+blockquote,
+dd {
   margin: 0px;
   padding: 0px;
 }
@@ -25,6 +26,7 @@ ul {
 }
 img {
   max-width: 100%;
+  height: auto;
   display: block;
 }
 img[src$=".jpg"] {

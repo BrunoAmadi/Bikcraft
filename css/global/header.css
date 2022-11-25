@@ -36,8 +36,13 @@
 }
 
 @media (max-width: 800px) {
+  .menu-flex{
+    gap: 16px;
+    margin-top: 16px;
+  }
   .menu-flex li a{
-background-color:var(--cor-10);
+    font-size: 1rem;
+background-color:var(--cor-11);
 padding: 10px ;
 border-radius: 4px;
 }
